@@ -23,7 +23,6 @@
 }
 
 .btn {
-    display: flex;
     align-items: center;
     justify-content: center;
     text-decoration: none;
@@ -34,6 +33,7 @@
     border: 0;
     border-radius: 8px;
     cursor: pointer;
+    
 }
 
 .btn-red {

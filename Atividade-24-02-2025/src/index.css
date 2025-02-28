@@ -9,6 +9,10 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   -webkit-text-size-adjust: 100%;
+
+  --principal: brown;
+  --primary: rgb(95, 74, 74);
+  --red: rgb(82, 49, 49);
   
   -terceary:#632eb3;
 }

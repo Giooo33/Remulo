@@ -24,7 +24,7 @@ function Home() {
     <div className="apresentacao">
         <p>
             Olá, sou <br />
-            <span>Rêmulo Borges</span> <br />
+            <span>Giovana Dutra</span> <br />
             Dev Full Stack
         </p>
         <Link to="/sobre" className="btn btn-red">

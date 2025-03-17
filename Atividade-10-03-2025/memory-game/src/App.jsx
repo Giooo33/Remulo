@@ -1,11 +1,11 @@
-import './App.css'
+import GameBoard from '../src/components/GameBoard'
 
 function App() {
 
   return (
-    <>
-    <h1>Olá Mundo!</h1>
-    </>
+
+    <GameBoard/>
+    
   )
 }
 
